@@ -13,9 +13,10 @@ data loading.
 - Display a progress bar while fetching data.
 
 ## Screenshots
-![Splash Screen](https://github.com/karanchhatwani1/VolleyImplementationProject/assets/68476336/d9418a1b-b215-4495-8ed8-1fa3bd0cb2e4)
-![Home Page](https://github.com/karanchhatwani1/VolleyImplementationProject/assets/68476336/2265be43-f960-4820-b127-ddc6b0ac8d0f)
+
 ![Product Details Page](https://github.com/karanchhatwani1/VolleyImplementationProject/assets/68476336/016347a7-1dcc-4661-9077-28a34342dc57)
+![Home Page](https://github.com/karanchhatwani1/VolleyImplementationProject/assets/68476336/2265be43-f960-4820-b127-ddc6b0ac8d0f)
+![Splash Screen](https://github.com/karanchhatwani1/VolleyImplementationProject/assets/68476336/d9418a1b-b215-4495-8ed8-1fa3bd0cb2e4)
 
 ## APK
 Here is the APK of my project you can download and access it:
