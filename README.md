@@ -21,4 +21,4 @@ data loading.
 ## APK
 Here is the APK of my project you can download and access it:
 
-[Download APK](https://github.com/karanchhatwani1/VolleyImplementationProject/blob/master/apk/app-debug.apk)
+[Download APK](https://github.com/karanchhatwani1/VolleyImplementationProject/releases)
